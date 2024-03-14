@@ -30,4 +30,4 @@ This repository contains of eight subjects that lay the foundations for machine 
 
 
 
-** This repository contains my version of practice notebooks based on [Jon Krohn's ML-foundations repository](https://github.com/jonkrohn/ML-foundations) and more to come. **
+**This repository contains my version of practice notebooks based on [Jon Krohn's ML-foundations repository](https://github.com/jonkrohn/ML-foundations) and more to come.**
